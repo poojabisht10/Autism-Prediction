@@ -1,5 +1,4 @@
 # Autism Prediction Model
-==========================
 
 ## Overview
 This project utilizes machine learning techniques to predict autism using a dataset sourced from Kaggle. The models assessed include the Decision Tree Classifier, Random Forest Classifier, and Logistic Regression.
